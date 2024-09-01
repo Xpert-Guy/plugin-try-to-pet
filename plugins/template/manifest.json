@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "tPet",
+    "description": "pet anything",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "Wolfie",
+            "id": "347096063569559553"
         }
     ],
     "main": "src/index.ts",
